@@ -1,7 +1,8 @@
 html * {
     font-family: Lato;
     font-weight: bolder;
-    max-width: 1000px;
+    max-width: 960px;
+    margin: auto;
 }
 a:link, a:visited,  a:hover, a:active{
     color: inherit;
@@ -15,7 +16,7 @@ img {
 .topsection ,
 .footer {
     background-color: #1f2937;
-    color: #f9faf8;
+color: #f9faf8;
 }
 .navbar {
     max-width: 1000px;
